@@ -1,0 +1,28 @@
+Nama : galih dwi pramudia
+nim : 062040832819
+kelas : 5MIP
+1. Apa itu Git dan kegunaanya?
+2. apa itu github dan kegunaannya?
+3. sebutkan istilah-istilah yang ada di git dan jelaskan masing-masing istilah tersebut?
+4. sebutkan layanan selain github?
+Jawaban.
+1. Group Inclusive Tour atau GIT adalah alat umum yang digunakan dalam proyek pengembangan perangkat lunak. Tak hanya itu,
+GIT juga salah satu alat yang harus dipahami oleh programmer karena banyak dan sering digunakan di mana-mana.
+mengelola versi source code program dengan menentukan baris serta kode yang akan ditambahkan atau diganti.
+
+2. GitHub digunakan untuk menyimpan source code untuk suatu proyek dan melacak riwayat lengkap semua perubahan kode itu.
+Ini memungkinkan pengguna untuk berkolaborasi dalam proyek secara lebih efektif dengan menyediakan alat untuk mengelola
+perubahan yang mungkin bertentangan dari beberapa pengembang.
+
+3. repository = Database yang menyimpan history/riwayat perubahan.
+   snapshot   = potret kondisi file dan folder pada saat tertentu.
+   commit     = snapshot yang disimpan di repository.
+   branch     = serangkaian commit yang berkaitan sehingga kalau digambar seperti garis lurus berisi banyak coomit
+                saturepository bisa berisi banyak branch.
+
+4. -Sourceplex
+   -CodePlex
+   -BitBucket
+   -Gitlab
+   -BeansStalk
+   -Google Cloud Source
